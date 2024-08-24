@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rehman-Portfolio/static/css/main.feb08504.css",
+    "main.js": "/Rehman-Portfolio/static/js/main.e3e83d76.js",
+    "static/js/453.4740bfb0.chunk.js": "/Rehman-Portfolio/static/js/453.4740bfb0.chunk.js",
+    "index.html": "/Rehman-Portfolio/index.html",
+    "main.feb08504.css.map": "/Rehman-Portfolio/static/css/main.feb08504.css.map",
+    "main.e3e83d76.js.map": "/Rehman-Portfolio/static/js/main.e3e83d76.js.map",
+    "453.4740bfb0.chunk.js.map": "/Rehman-Portfolio/static/js/453.4740bfb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb08504.css",
+    "static/js/main.e3e83d76.js"
+  ]
+}
